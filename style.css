@@ -1,0 +1,12 @@
+.estado-activo {
+  color: green;
+  font-weight: bold;
+}
+.estado-vencer {
+  color: orange;
+  font-weight: bold;
+}
+.estado-vencido {
+  color: red;
+  font-weight: bold;
+}
